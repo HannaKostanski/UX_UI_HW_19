@@ -242,7 +242,7 @@ button:hover {
     font-family: 'raleway', sans-serif;
     font-size: 24px;
     margin-left: 120px;
-    color: #FF7E7E;
+    color: #5D574E;
     line-height: 1.75;
 }
 
@@ -254,7 +254,7 @@ button:hover {
 
 .text a {
     font-size: 36px;
-    color: #FF7E7E;
+    color: #5D574E;
 }
 
 .image {
@@ -291,7 +291,7 @@ button:hover {
 
 .text a:hover {
     font-size: 36px;
-    color: #5D574E;
+    color: #FF7E7E;
 }
 
 
@@ -382,7 +382,7 @@ footer {
     .box img {
 
         width: 130px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
 
     }
 }
@@ -392,7 +392,7 @@ footer {
 
      
         width: 130px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
 
     }
 }
@@ -402,7 +402,7 @@ footer {
 
        
         width: 130px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
 
     }
 }
